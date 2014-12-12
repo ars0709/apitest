@@ -1,0 +1,10 @@
+1.  file name : app_app.php
+    APP => url : apptomatik.dev/
+    input : ?request = url
+           ?appid= id of app
+
+
+   result :
+    - output api must return in json file --> corrected
+
+2.
